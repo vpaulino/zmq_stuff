@@ -1,0 +1,11 @@
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\Server.exe
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\Server.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq-ext.dll
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq.dll
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq.xml
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq-ext.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\bin\Debug\clrzmq-ext.xml
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\obj\x86\Debug\Server.exe
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\obj\x86\Debug\Server.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\reqReply\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

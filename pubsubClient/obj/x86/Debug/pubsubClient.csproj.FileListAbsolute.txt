@@ -1,0 +1,10 @@
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\pubsubClient.exe
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\pubsubClient.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq-ext.dll
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq.dll
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq.xml
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq-ext.pdb
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\bin\Debug\clrzmq-ext.xml
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\obj\x86\Debug\pubsubClient.exe
+D:\Development\0mq\Samples\1Sample\ProducerConsumer\pubsubClient\obj\x86\Debug\pubsubClient.pdb
